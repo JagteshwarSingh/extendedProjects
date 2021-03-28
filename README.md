@@ -1,2 +1,3 @@
 # extendedProjects 
-## Jagteshwar - 2021
+## Description: These are external(out of class) projects
+### Jagteshwar - 2021
